@@ -1,0 +1,9 @@
+Position,Name + ID,Name,ID,Roster Position,Salary,Game Info,TeamAbbrev,AvgPointsPerGame
+PG,Luka Doncic (123456),Luka Doncic,123456,PG/SG,11800,DAL@PHX 7:30PM ET,DAL,59.2
+SG,Devin Booker (234567),Devin Booker,234567,SG/SF,9700,DAL@PHX 7:30PM ET,PHX,48.6
+SF,Jayson Tatum (345678),Jayson Tatum,345678,SF/PF,10300,BOS@MIL 8:00PM ET,BOS,51.3
+PF,Giannis Antetokounmpo (456789),Giannis Antetokounmpo,456789,PF/C,11800,BOS@MIL 8:00PM ET,MIL,58.4
+C,Joel Embiid (567890),Joel Embiid,567890,C,11600,PHI@NYK 7:00PM ET,PHI,57.9
+G,Fred VanVleet (678901),Fred VanVleet,678901,PG/G,7900,HOU@SAS 8:00PM ET,HOU,41.2
+F,Kevin Durant (789012),Kevin Durant,789012,SF/PF,9900,DAL@PHX 7:30PM ET,PHX,49.8
+UTIL,Nikola Jokic (890123),Nikola Jokic,890123,C,11600,DEN@MIN 8:00PM ET,DEN,58.0
